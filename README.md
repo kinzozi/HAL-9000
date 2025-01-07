@@ -1,8 +1,9 @@
 # HAL-9000: Your Intuitive Command Line GPT Assistant
 
 HAL-9000 is a powerful command-line tool that brings the magic of GPT to your terminal. It allows you to interact with your system using natural language, simplifying complex tasks and boosting your productivity. Describe what you want to achieve, and HAL-9000 will translate your intent into precise commands.
+![preview-gif](https://github.com/user-attachments/assets/457e4188-2c45-4e7d-aca1-5c4946b846dc)
 
-![preview-gif-hal9000](https://github.com/user-attachments/assets/1560e308-05eb-4b82-8155-1eba7c0c2e50)
+
 
 ## Features
 
